@@ -1,0 +1,60 @@
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    height: 100vh;
+    width:100%;
+    width:auto;
+    background: linear-gradient(rgb(255, 123, 145),rgb(255, 75, 255));
+}
+
+.heading
+{
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top:50px;
+    height:60px;
+    font-size: 20px;
+    margin:20px 0;
+}
+
+.content .img
+{
+    position: absolute;
+    padding-top:50px;
+    padding-left:50px;
+
+}
+
+.content .img img
+{
+    position: relative;
+    height:300px;
+    width:300px;
+    padding-left: 50px;
+    padding-top:50px;
+
+}
+
+
+.content .about
+{
+    
+    position: absolute;
+    padding-top:50px;
+    padding-left:400px;
+}
+.content .about h3{
+   
+    height:300px;
+    width:auto;
+    padding-left: 100px;
+    padding-top:50px;
+
+}
