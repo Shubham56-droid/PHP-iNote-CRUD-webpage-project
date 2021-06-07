@@ -1,0 +1,34 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: rgb(235, 102, 235);
+   
+}
+.contentg
+{
+    background-color: red;
+}
+.containerform
+{
+    background-color: rgba(255, 255, 255, 0.205);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    
+}
+
+.containertable
+{
+    background-color: rgba(255, 255, 255, 0.274) ;
+    color:black;
+    border-radius: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
