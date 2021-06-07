@@ -14,6 +14,7 @@ description,
 dtstamp(for current date and time)
 
 i created a table named -  note 
+
 And a database name is -  curd
 
 all the content are based on these name so access the table you have to use xampp and phpmyadmin with same database name and tablebname
