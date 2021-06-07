@@ -141,9 +141,7 @@ if($_SERVER['REQUEST_METHOD']=='POST')
       <li class="nav-item">
         <a class="nav-link" href="about.html">About</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="contact.html">Contact me</a>
-      </li>
+     
      
     </ul>
   </div>
