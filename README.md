@@ -18,3 +18,6 @@ i created a table named -  note
 And a database name is -  curd
 
 all the content are based on these name so access the table you have to use xampp and phpmyadmin with same database name and tablebname
+
+for using  this  web project  you  need  to use  PHPMYADMIN  AND  XAMPP  
+also you have  to create  table  name  users  to store  data  into it.
